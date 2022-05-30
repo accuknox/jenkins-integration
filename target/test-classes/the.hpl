@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: knoxautopol
+Long-Name: AccuKnox CLI
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0.0
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Libraries: /mnt/c/Users/vsk90/OneDrive/Desktop/AccuKnox/poc/jenkins-pl
+ ugin/knoxautopol-github/src/main/resources,/mnt/c/Users/vsk90/OneDriv
+ e/Desktop/AccuKnox/poc/jenkins-plugin/knoxautopol-github/target/classes
+Resource-Path: /mnt/c/Users/vsk90/OneDrive/Desktop/AccuKnox/poc/jenkin
+ s-plugin/knoxautopol-github/src/main/webapp
+

@@ -1,0 +1,11 @@
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol/DescriptorImpl/doCheckGitToken.stapler
+META-INF/annotations/hudson.Extension.txt
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol/DescriptorImpl/doCheckGitUserName.stapler
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol$DescriptorImpl.class
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol/DescriptorImpl/doCheckGitBranchName.stapler
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol/DescriptorImpl/doCheckGitBaseBranchName.stapler
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol.stapler
+META-INF/annotations/org.jenkinsci.Symbol
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol/DescriptorImpl/doCheckGitRepoUrl.stapler
+io/jenkins/plugins/AccuKnoxCLI/KnoxAutoPol.class
+META-INF/annotations/hudson.Extension

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: zero
+Created-By: Apache Maven
+Build-Jdk: 11.0.14.1
+Extension-Name: knoxautopol
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: knoxautopol
+Implementation-Version: 1.0.0
+Group-Id: io.jenkins.plugins
+Short-Name: knoxautopol
+Long-Name: AccuKnox CLI
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0.0
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+
