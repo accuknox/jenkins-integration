@@ -88,9 +88,9 @@ node {
 6.  Fill in the necessary details like GitHub username, token, etc    
 7.  Save
     
-![Build section](./images/build-section.png)](./images/build-section.png) 
+![Build section](./images/build-section.png)
 
-![Update plugin parameters](./images/plugin-parameters.png)](./images/plugin-parameters.png) 
+![Update plugin parameters](./images/plugin-parameters.png)
 
 ## Development
 
