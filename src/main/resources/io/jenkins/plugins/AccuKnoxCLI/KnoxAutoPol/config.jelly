@@ -1,0 +1,35 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+    <f:entry title="${%Auto Apply}" field="useAutoApply"
+            description="Auto Apply Policy to Kubernetes cluster">
+            <f:checkbox />
+    </f:entry>
+    <f:entry title="${%Push to GitHub}" field="pushToGit"
+            description="Push the updates to GitHub repository">
+            <f:checkbox />
+    </f:entry>
+    <f:advanced>
+        <f:entry title="${%GitHub Username}" field="gitUserName" 
+            description="GitHub username/organization name">
+            <f:textbox />
+        </f:entry>
+        <f:entry title="${%GitHub Branch Name}" field="gitBranchName"
+            description="GitHub branch name to push new policies">
+            <f:textbox />
+        </f:entry>
+        <f:entry title="${%GitHub Token}" field="gitToken"
+            description="GitHub auth token with read/write permission">
+            <f:textbox />
+        </f:entry>
+        <f:entry title="${%GitHub Repository URL}" field="gitRepoUrl"
+            description="GitHub base repository URL eg. https://github.com/owner/repo.git">
+            <f:textbox />
+        </f:entry>
+        <f:entry title="${%GitHub Base Branch}" field="gitBaseBranchName"
+            description="GitHub base branch to create PR">
+            <f:textbox />
+        </f:entry>
+    </f:advanced>
+
+    
+</j:jelly>
